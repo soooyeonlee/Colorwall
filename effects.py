@@ -411,7 +411,7 @@ class Bouncer(Effect):
                 ball.advance()
             self.wall.draw()
             time.sleep(.1)
-+
+
 class Message(Effect):
     message = [
         '                                                                      ',
